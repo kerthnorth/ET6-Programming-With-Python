@@ -14,4 +14,5 @@ class TestCountItemsInList(unittest.TestCase):
         self.assertEqual(count_items_in_list([1]), 1)
 
     def test_multiple_elements_list(self):
+        
         self.assertEqual(count_items_in_list([1, 2, 3]), 3)

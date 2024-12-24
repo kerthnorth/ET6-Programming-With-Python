@@ -16,4 +16,4 @@ def count_items_in_list(list_of_things):
         count += 1
     # print(count)
     return count
-count_items_in_list([1, 2, 3])
+# count_items_in_list([1, 2, 3])
